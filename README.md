@@ -1,8 +1,10 @@
-### Hi there 👋
-[![Alt text](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/erin-asilo/)
+### Hi there, I'm Erin! 👋
+------------------------
 
+[![Alt text](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg)](https://www.linkedin.com/in/erin-asilo/) \
 ![](https://dcbadge.vercel.app/api/shield/197545315929161737?style=flat) 
- 
+
+ -------------------------
 - 🔭 I’m currently working on my senior project.
 - 🌱 I’m currently learning how to automate with Python.
 - 👯 I’m looking to collaborate on anything!
