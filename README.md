@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my senior project.
 - 🌱 I’m currently learning how to automate with Python.
 - 👯 I’m looking to collaborate on anything!
-- 🤔 I’m looking for help with being a g00d programmer.
+- 🤔 I’m looking for help with learning devops.
 - 💬 Ask me about video games!
 - 📫 How to reach me: Discord badge up at the top.
 - 😄 Pronouns: He/Him
